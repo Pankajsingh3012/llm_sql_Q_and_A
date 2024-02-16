@@ -1,0 +1,13 @@
+langchain==0.1.6
+python-dotenv==1.0.0
+streamlit==1.22.0
+tiktoken==0.4.0
+faiss-cpu==1.7.4
+protobuf==4.21.6
+langchain_experimental ==  0.0.51
+mysql-connector-python==  8.3.0
+pymysql== 1.1.0
+sentence-transformers== 2.3.1
+chromadb == 0.4.22
+google-generativea == 0.3.2
+langchain-google-genai  == 0.0.9
